@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\donguler_for-loop\bin\Debug\net7.0\donguler_for-loop.exe
+C:\Users\beyza\Desktop\C#\donguler_for-loop\bin\Debug\net7.0\donguler_for-loop.deps.json
+C:\Users\beyza\Desktop\C#\donguler_for-loop\bin\Debug\net7.0\donguler_for-loop.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\donguler_for-loop\bin\Debug\net7.0\donguler_for-loop.dll
+C:\Users\beyza\Desktop\C#\donguler_for-loop\bin\Debug\net7.0\donguler_for-loop.pdb
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\donguler_for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\donguler_for-loop.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\donguler_for-loop.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\donguler_for-loop.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\donguler_for-loop.dll
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\refint\donguler_for-loop.dll
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\donguler_for-loop.pdb
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\donguler_for-loop.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\donguler_for-loop\obj\Debug\net7.0\ref\donguler_for-loop.dll
